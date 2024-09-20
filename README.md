@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p1tap, idiots call me peepz, sophisicated one call me P.
-- 👀 I’m interested in last to stay awake wins 500,000$ mr.beast challenge
+- 👀 I’m interested in last to stay awake coding wins 500,000$ mr.beast challenge
 - 🌱 I’m currently learning to walk
 - 💞️ I’m looking to collaborate on tf2 duo
 - 📫 How to reach me : you don't
