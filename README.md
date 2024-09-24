@@ -5,3 +5,5 @@
 - 📫 How to reach me : you don't
 - 😄 Pronouns: defenitely not her/they/it
 - ⚡ Fun fact: ........ y-yeah
+
+checkout my social media app here: https://6510190-webdev-finalproj.vercel.app/
