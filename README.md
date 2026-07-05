@@ -4,7 +4,7 @@
 
 ### AI Platform / ML / MLOps Engineer
 
-Building local-first AI systems, data pipelines, model evaluation workflows, and Dockerized AI runtimes.
+Optimizing AI systems, data pipelines, model evaluation workflows, and Dockerized AI runtimes.
 
 [![Email](https://img.shields.io/badge/Email-peepzprtz%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:peepzprtz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-p1tap-181717?style=flat-square&logo=github)](https://github.com/p1tap)
@@ -14,7 +14,7 @@ Building local-first AI systems, data pipelines, model evaluation workflows, and
 
 ## About
 
-AI engineering, MLOps, and CUDA-optimized local AI. Developer on [Vbot](https://github.com/NU8B/Vbot).
+AI engineering, MLOps, and CUDA-optimized AI. Developer on [Vbot](https://github.com/NU8B/Vbot).
 
 I like building the parts around models that make them usable: data preparation, training runs, inference optimization, evaluation loops, packaging, and deployment.
 
@@ -22,9 +22,10 @@ I like building the parts around models that make them usable: data preparation,
 
 | Project | What I worked on | Stack |
 | --- | --- | --- |
-| [Vbot](https://github.com/NU8B/Vbot) | Developer/admin for a local-first 3D AI assistant integrating LLM, TTS, STT, avatar animation, Docker runtime automation, CI/CD packaging, and evaluation workflows. | Python, PyTorch, CUDA, Docker, Ollama, StyleTTS2, faster-whisper, THA4 |
+| [Vbot](https://github.com/NU8B/Vbot) | Developer of a 3D AI assistant integrating LLM, TTS, STT, avatar animation, Docker runtime automation, CI/CD packaging, and evaluation workflows. | Python, PyTorch, CUDA, Docker, Ollama, StyleTTS2, faster-whisper, THA4 |
 | [Agent Selection Program](https://github.com/NU8B/agent_select_nono) | Built a routing algorithm using vector search, custom embeddings, lexical similarity, metadata caching, weighted scoring, and benchmark-driven retrieval. | Python, ChromaDB, embeddings, semantic search |
 | [ToolShare](https://github.com/p1tap/db-toolshare) | Built backend/API flows for a tool-sharing marketplace, including users, tools, rentals, orders, payments, support tickets, and admin workflows. | TypeScript, Next.js, PostgreSQL |
+| [ShareIT](https://github.com/p1tap/ShareIT) | Built a full-stack social media app with authentication, image uploads, profiles, posts, comments, likes, search, and edit/delete flows. | TypeScript, Next.js, MongoDB, Cloudinary |
 
 ## Tech Stack
 
@@ -69,7 +70,7 @@ I like building the parts around models that make them usable: data preparation,
 
 [![Profile](https://img.shields.io/badge/Profile-p1tap-181717?style=for-the-badge&logo=github)](https://github.com/p1tap)
 [![Repositories](https://img.shields.io/badge/Repositories-View%20Projects-0969da?style=for-the-badge&logo=github)](https://github.com/p1tap?tab=repositories)
-[![Pinned](https://img.shields.io/badge/Pinned-Vbot%20%7C%20AI%20Routing%20%7C%20Toolshare-2ea44f?style=for-the-badge&logo=github)](https://github.com/p1tap)
+[![Pinned](https://img.shields.io/badge/Pinned-Vbot%20%7C%20ToolShare%20%7C%20ShareIT-2ea44f?style=for-the-badge&logo=github)](https://github.com/p1tap)
 
 <br>
 
