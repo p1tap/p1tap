@@ -16,8 +16,6 @@ Optimizing AI systems, data pipelines, model evaluation workflows, and Dockerize
 
 AI engineering, MLOps, and CUDA-optimized AI. Developer on [Vbot](https://github.com/NU8B/Vbot).
 
-I like building the parts around models that make them usable: data preparation, training runs, inference optimization, evaluation loops, packaging, and deployment.
-
 ## Featured Work
 
 | Project | What I worked on | Stack |
