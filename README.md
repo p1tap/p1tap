@@ -2,9 +2,9 @@
 
 # Peerapat T.
 
-### AI Platform / ML / MLOps Engineer
+### AI / ML / MLOps / LLMOps Engineer
 
-Optimizing AI systems, data pipelines, model evaluation workflows, and Dockerized AI runtimes.
+Optimizing AI systems, data pipelines, model evaluation workflows, and Dockerized AI systems.
 
 [![Email](https://img.shields.io/badge/Email-peepzprtz%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:peepzprtz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-p1tap-181717?style=flat-square&logo=github)](https://github.com/p1tap)
@@ -38,17 +38,18 @@ AI engineering, MLOps, and CUDA-optimized AI. Developer on [Vbot](https://github
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-`Llama` `Mistral` `BERT` `RoBERTa` `StyleTTS2` `torchaudio` `librosa`
+`Llama` `Mistral` `BERT` `RoBERTa` `StyleTTS2` `faster-whisper` `torchaudio` `librosa`
 
 ### MLOps / Platform
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-336791?style=for-the-badge&logo=python&logoColor=white)
 
-`dataset pipelines` `evaluation loops` `PESQ` `STOI` `Silero VAD` `cloud GPU training` `VRAM optimization`
+`model evaluation` `promotion gates` `runtime metrics` `dataset pipelines` `GPU evaluation workflows` `VRAM optimization`
 
 ### Web / Backend
 
