@@ -6,7 +6,7 @@
 
 Building evaluation-gated LLM systems, reliable inference infrastructure, and multimodal AI applications.
 
-[LinkedIn](https://www.linkedin.com/in/peerapat-t) · [Email](mailto:peepzprtz@gmail.com) · Bangkok, Thailand
+[LinkedIn](https://www.linkedin.com/in/peerapat-thubthimthong-179867343/) · [Email](mailto:peepzprtz@gmail.com) · Bangkok, Thailand
 
 </div>
 
