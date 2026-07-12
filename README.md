@@ -10,11 +10,9 @@ Building evaluation-gated LLM systems, reliable inference infrastructure, and mu
 
 </div>
 
-## Focus
+## What I work on
 
-- **Evaluation-driven AI:** versioned baselines, frozen test suites, LLM-as-judge evaluation, and policy-gated model promotion.
-- **Reliable AI platforms:** Kubernetes, GitOps, failover, spend controls, and observability for LLM workloads.
-- **Efficient multimodal systems:** PyTorch/CUDA, TTS/STT, runtime instrumentation, and consumer-GPU optimization.
+Making model changes provable before they ship — versioned baselines, frozen test suites, and LLM-as-judge gates that decide promotion by exit code. Around that sits the platform to run it (Kubernetes, GitOps, failover, spend caps, Prometheus/Grafana) and the systems it serves, from QLoRA fine-tunes to a multimodal desktop runtime squeezed onto a consumer GPU.
 
 ## Selected work
 
@@ -24,7 +22,7 @@ Building evaluation-gated LLM systems, reliable inference infrastructure, and mu
 
 - **Backbone fine-tuning system** *(private)* - Fine-tuned, evaluated, policy-gated, and GitOps-deployed a Qwen2.5-1.5B QLoRA model. Frozen behavioral probes, rather than training loss alone, determine whether a candidate is promoted.
 
-- **[Vbot](https://github.com/NU8B/Vbot)** - Technical lead for a three-person team building a multimodal desktop AI character system with LLM, TTS, STT, emotion-aware avatar animation, and evaluation workflows. Reduced the full runtime's VRAM use from 16 GB to 6 GB.
+- **[Vbot](https://github.com/NU8B/Vbot)** - Multimodal desktop AI character system: LLM, TTS, STT, emotion-aware avatar animation, and an evaluation/promotion layer. Cut the full runtime's VRAM use from 16 GB to 6 GB.
 
 - **[ToolShare on AWS](https://github.com/p1tap/toolshare-aws)** - Serverless marketplace API using API Gateway, Lambda, DynamoDB, Cognito, Step Functions, and SNS/SQS. Delivery is gated through GitHub Actions OIDC, staging smoke tests, approval, and canary rollback.
 
@@ -36,6 +34,6 @@ Building evaluation-gated LLM systems, reliable inference infrastructure, and mu
 
 ## Earlier highlight
 
-Led a three-person team to **2nd place** in the UniversaAI AI Hackathon. Our agent-routing system reached **95.7% accuracy (66/69)** using vector search, lexical similarity, metadata caching, and weighted scoring. [Project](https://github.com/NU8B/agent_select_nono)
+**2nd place** in the UniversaAI AI Hackathon. An agent-routing system that reached **95.7% accuracy (66/69)** using vector search, lexical similarity, metadata caching, and weighted scoring. [Project](https://github.com/NU8B/agent_select_nono)
 
 [Browse all repositories →](https://github.com/p1tap?tab=repositories)
