@@ -1,39 +1,26 @@
-<div align="center">
-
-# Peerapat Thubthimthong
-
-### AI Platform / LLMOps Engineer
-
-Building evaluation-gated LLM systems, reliable inference infrastructure, and multimodal AI applications.
-
-[LinkedIn](https://www.linkedin.com/in/peerapat-thubthimthong-179867343/) · [Email](mailto:peepzprtz@gmail.com) · Bangkok, Thailand
-
-</div>
-
 ## What I work on
 
-Making model changes provable before they ship — versioned baselines, frozen test suites, and LLM-as-judge gates that decide promotion by exit code. Around that sits the platform to run it (Kubernetes, GitOps, failover, spend caps, Prometheus/Grafana) and the systems it serves, from QLoRA fine-tunes to a multimodal desktop runtime squeezed onto a consumer GPU.
+I build AI systems that can be measured before they ship: versioned datasets, evaluation suites, automated multi-judge gates, and promotion workflows. Around them, I build the infrastructure and products that make models useful — resilient inference, Kubernetes/GitOps delivery, observability, cost controls, RAG, fine-tuning, speech, and recommendation systems.
 
 ## Selected work
 
-- **[Vbot Model Gateway](https://github.com/p1tap/vbot-model-gateway)** - OpenAI-compatible, multi-provider LLM gateway on k3s with model fallback, Redis-backed circuit breaking, budget-capped virtual keys, and Prometheus/Grafana observability. Argo CD, Terraform, and an eval gate make a merged change deployable in roughly three minutes.
+- **[LLM Gateway Platform](https://github.com/p1tap/vbot-model-gateway)** - OpenAI-compatible, multi-provider LLM gateway on k3s with model fallback, Redis-backed circuit breaking, budget-capped virtual keys, and Prometheus/Grafana observability. Argo CD, Terraform, and an eval gate make a merged change deployable in roughly three minutes.
 
-- **[Vbot RAG Evaluation Harness](https://github.com/p1tap/vbot-rag-eval/tree/main)** - Eval-gated RAG built with local E5 embeddings and a frozen 49-question golden set. Retrieval metrics, cross-family LLM judging, abstention checks, and CI reproducibility checks guard every promoted change.
+- **[GearFlow AI](https://github.com/p1tap/toolshare-aws)** - AI-native full-stack equipment marketplace deployed on AWS with a Bedrock-powered RAG assistant, AI job planning, Stripe Checkout, and personalized semantic-hybrid recommendations.
 
-- **Backbone fine-tuning system** *(private)* - Fine-tuned, evaluated, policy-gated, and GitOps-deployed a Qwen2.5-1.5B QLoRA model. Frozen behavioral probes, rather than training loss alone, determine whether a candidate is promoted.
+- **[RAG Evaluation Platform](https://github.com/p1tap/vbot-rag-eval/tree/main)** - Reproducible RAG evaluation with retrieval metrics, automated multi-judge scoring, faithfulness and abstention checks, and CI regression gates.
 
-- **[Vbot](https://github.com/NU8B/Vbot)** - Multimodal desktop AI character system: LLM, TTS, STT, emotion-aware avatar animation, and an evaluation/promotion layer. Cut the full runtime's VRAM use from 16 GB to 6 GB.
+- **[Vbot](https://github.com/NU8B/Vbot)** - Multimodal desktop AI character system: LLM, TTS, STT, emotion-aware avatar animation, and an evaluation/promotion layer optimized for consumer GPUs.
 
-- **[ToolShare on AWS](https://github.com/p1tap/toolshare-aws)** - Serverless marketplace API using API Gateway, Lambda, DynamoDB, Cognito, Step Functions, and SNS/SQS. Delivery is gated through GitHub Actions OIDC, staging smoke tests, approval, and canary rollback.
+- **[Agent Selection Program](https://github.com/NU8B/agent_select_nono)** - Agent-routing system combining vector search, custom embeddings, lexical similarity, metadata caching, and weighted scoring across large agent catalogs.
 
-## Core toolkit
+- **Backbone Fine-Tuning System** - Fine-tuned and deployed language models through an evaluation-gated pipeline, with behavioral regression checks controlling model promotion.
 
-- **AI & evaluation:** Python, PyTorch, QLoRA/PEFT, vLLM, RAG, E5, LLM-as-judge
+## Specialization
+
+- **AI & evaluation:** Python, PyTorch, QLoRA/PEFT, vLLM, RAG, E5, Amazon Bedrock, LLM-as-judge
 - **Platform & delivery:** Docker, Kubernetes (k3s), Argo CD, Terraform, GitHub Actions, Prometheus, Grafana, k6
-- **Backend & cloud:** AWS serverless, PostgreSQL, Redis, Next.js, TypeScript
-
-## Earlier highlight
-
-**2nd place** in the UniversaAI AI Hackathon. An agent-routing system that reached **95.7% accuracy (66/69)** using vector search, lexical similarity, metadata caching, and weighted scoring. [Project](https://github.com/NU8B/agent_select_nono)
+- **Full-stack:** React, Next.js, TypeScript, JavaScript, REST, PostgreSQL, MongoDB, DynamoDB, Redis
+- **Cloud:** AWS Lambda, API Gateway, Cognito, S3, Step Functions, SNS/SQS, Amazon Bedrock, Stripe
 
 [Browse all repositories →](https://github.com/p1tap?tab=repositories)
