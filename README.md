@@ -8,7 +8,7 @@ I build AI systems that can be measured before they ship: versioned datasets, ev
 
 - **[GearFlow AI](https://github.com/p1tap/toolshare-aws)** - AI-native full-stack equipment marketplace deployed on AWS with a Bedrock-powered RAG assistant, AI job planning, Stripe Checkout, and personalized semantic-hybrid recommendations.
 
-- **[RAG Evaluation Platform](https://github.com/p1tap/vbot-rag-eval/tree/main)** - Reproducible RAG evaluation with retrieval metrics, automated multi-judge scoring, faithfulness and abstention checks, and CI regression gates.
+- **[RAG Evaluation Platform](https://github.com/p1tap/vbot-rag-eval)** - Audited 10,000 publisher-annotated HotpotQA, Natural Questions, and FEVER cases; task-aware retrieval and evidence selection reached 60.5% strict joint answer-and-citation correctness with zero fail-closed cases. Hash-bound CI gates preserve rejected rerankers and model routes as reproducible negative results instead of silently promoting them.
 
 - **[Vbot](https://github.com/NU8B/Vbot)** - Multimodal desktop AI character system: LLM, TTS, STT, emotion-aware avatar animation, and an evaluation/promotion layer optimized for consumer GPUs.
 
